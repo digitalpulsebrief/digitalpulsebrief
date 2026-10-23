@@ -1,4 +1,3 @@
-
 # Digital Pulse Brief
 
 ### Everyday Tech Troubleshooting — Made Simple
@@ -12,6 +11,41 @@ We cover iPhone and Android troubleshooting, Windows and Mac fixes, app and soft
 Our goal is to make technology easier to understand, troubleshoot, and use for readers worldwide.
 
 🌐 **Official Website:** https://digitalpulsebrief.com/
+
+---
+
+## ⭐ Featured Troubleshooting Guide
+
+### Gmail Storage Full? Fix Missing Emails & Free Up Space
+
+Is Gmail not receiving emails because your Google Account storage is full?
+
+Gmail shares storage with Google Drive, Google Photos, and certain backups. When your account reaches its storage limit, incoming emails may stop arriving, and some messages may bounce back to their senders.
+
+Our practical troubleshooting guide explains how to identify what's using your Google storage, find large email attachments, safely free up space, and check whether Gmail is receiving new messages again.
+
+**What you'll learn:**
+
+- Why Gmail stops receiving emails when Google Account storage is full.
+- How to check your Gmail, Google Drive, and Google Photos storage.
+- How to find large emails using Gmail search operators.
+- How to safely remove unnecessary files without losing important data.
+- Why previously bounced emails may need to be resent.
+- How to test whether Gmail is working after freeing storage.
+
+### 📖 Read the Complete Step-by-Step Guide
+
+👉 **[Gmail Storage Full? Why Emails Stop Arriving and How to Fix It — Digital Pulse Brief](https://digitalpulsebrief.com/gmail-storage-full-not-receiving-emails/)**
+
+The complete article includes practical recovery instructions, troubleshooting tables, visual references, safety precautions, and links to Google's official support documentation.
+
+### ✅ Free Gmail Storage Recovery Checklist
+
+Prefer a quick reference?
+
+📋 **[View the Gmail Storage Full Checklist on GitHub](https://github.com/digitalpulsebrief/gmail-storage-full-checklist)**
+
+**Editorial transparency:** This guide is based on published Google support documentation and editorial research. It does not claim independent hands-on testing of a completely full Gmail account.
 
 ---
 
@@ -94,6 +128,10 @@ Our repositories may include:
 - Website development projects
 - Practical utilities and reference materials
 
+### Featured GitHub Resource
+
+**[Gmail Storage Full Checklist](https://github.com/digitalpulsebrief/gmail-storage-full-checklist)** — A practical reference for checking Google storage, identifying large emails, reviewing files safely, and troubleshooting missing Gmail messages.
+
 Resources will be shared as they become available.
 
 ---
@@ -128,6 +166,7 @@ For general inquiries, suggestions, feedback, or editorial corrections:
 ---
 
 ### Digital Pulse Brief
+
 **Real Problems. Practical Solutions. Clear Technology Guides.**
 
 © 2026 Digital Pulse Brief. All rights reserved.
